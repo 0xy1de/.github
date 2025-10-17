@@ -44,7 +44,7 @@ Our goal is simple:
 
 - [`LinX-OS`](https://github.com/0xy1de/LinX-OS) — full OS image using Oxyde as its desktop  
 - [`Oxyde Desktop`](https://github.com/0xy1de/Oxyde-Y2K) — custom desktop in Rust and C using Wayland Compositor 
-- ~[`oxyde_art`](https://github.com/0xy1de/oxyde_art) — branding, icons, and glass assets~
+- [`Y2K Art`]([https://github.com/0xy1de/oxyde_art](https://github.com/0xy1de/Y2K-Art)) — branding, icons, and assets
 
 ---
 

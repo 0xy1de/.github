@@ -1,7 +1,9 @@
 # 🧪 Oxyde Desktop Environment
 ### *"The Future, Rendered Through 2003 Glass."*
 
-![Oxyde Logo](https://github.com/0xy1de/Oxyde-Y2K/blob/Oxyde-Y2k/assets%2Ficons%2Flogo.png)
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+<img src="https://github.com/0xy1de/Y2K-Art/blob/main/logo2.png" width="400" height="400">
+</div>
 
 > **Oxyde** is a modern desktop environment written in **Rust**, designed with a **Frutiger-Aero** and **Aqua-era** aesthetic — smooth glass, soft blur, and the nostalgia of early-2000s UI design, reborn for modern Linux.
 

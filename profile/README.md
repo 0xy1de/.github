@@ -35,6 +35,7 @@ Our goal is simple:
 | **Oxyde Compositor** | Custom Wayland compositor written in Rust | ⚙️ Prototype Stage |
 | **Oxyde Panel** | Lightweight taskbar with translucent XP-style theme | 🧱 Early Build |
 | **LinX OS** | The retro-styled Linux distribution shipping Oxyde by default | 💿 Building image |
+| **Lynx Kernel** | Lightweight, high-performance kernel built from XanMod Kernel. | Version 1 released |
 
 ---
 
@@ -42,7 +43,8 @@ Our goal is simple:
 
 - [`LinX-OS`](https://github.com/0xy1de/LinX-OS) — full OS image using Oxyde as its desktop  
 - [`Oxyde Desktop`](https://github.com/0xy1de/Oxyde-Y2K) — custom desktop in Rust and C using Wayland Compositor 
-- ~[`oxyde_art`](https://github.com/0xy1de/oxyde_art) — branding, icons, and glass assets~
+- [`Lynx Kernel`](https://github.com/0xy1de/Oxyde-Lynx-Kernel) — custom tuned performance kernel based on XanMod Kernel
+- [`Y2K Art`](https://github.com/0xy1de/Y2K-Art) — branding, icons, and glass assets
 
 ---
 
@@ -59,20 +61,58 @@ The system is modular, transparent, and unapologetically nostalgic.
 
 ---
 
-## 🧑‍💻 Get Involved
+## Contributing
 
-Oxyde is an open project welcoming contributors who appreciate:
-- Rust, C, or C++ systems programming  
-- Retro UI design  
-- Linux desktop innovation  
-- Minimalism, performance, and aesthetic polish  
+Contributions are always welcome! If you’d like to help improve this project, simply **fork** the repository, create a **new branch**, and submit a **pull request**.  
+I review submissions as time allows and appreciate any effort that helps move the project forward.  
 
-> 🧩 PRs, bug reports, and design mockups are all welcome.
+If you’d like to collaborate more directly or officially join the development effort, please reach out via the contact information listed in the repository.
+
+---
+
+## Current Development Goals
+
+The project’s active goals focus on refining both the technical foundation and user experience:
+
+- **Desktop Environment** — Develop a fully functional environment using a custom-modified Wayland compositor.  
+- **User Interface** — Implement cohesive Aqua-style theming through C, inspired by early-2000s design.  
+- **Core Components** — Build a responsive taskbar, “Start” menu, file manager, and power/reboot interface using Rust and C integration.  
+- **Kernel Optimization** — Continue tuning the [Lynx Kernel](https://github.com/0xy1de/Oxyde-Lynx-Kernel) to prioritize user input, reduce latency, and remove unnecessary modules for maximum efficiency.  
+- **System Aesthetics** — Design and implement consistent icon sets and system artwork that reinforce the retro aesthetic.  
+- **Compatibility** — Deeply integrate Wine for improved legacy and Windows software support.  
+- **Future Development** — Add a custom login and session management system as part of the long-term roadmap.  
+
+---
+
+## How to Contribute
+
+1. **Fork** this repository  
+2. **Create your feature branch:** 
+```bash
+   git checkout -b feature/YourFeatureName
+   ```
+
+3. **Commit your changes:**
+
+```bash
+git commit -m "Add your feature description"
+```
+
+4. **Push to the branch:**
+
+```bash
+git push origin feature/YourFeatureName
+```
+
+5. **Open a *Pull Request***
 
 ---
 
 ## 🪞 Screenshots (Coming Soon)
-*(Mockups and prototype builds will be published here as Oxyde evolves.)*
+
+**Progress as of 24 Sept 2025:**
+
+![09242025](https://github.com/0xy1de/Oxyde-Y2K/blob/Oxyde-Y2k/assets/progress.png)
 
 ---
 
